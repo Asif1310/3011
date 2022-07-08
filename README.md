@@ -1,15 +1,4 @@
 # 3011
-NAAS offers low-code drivers one could easily use to connect Jupyter Notebooks to applications like LinkedIn, google sheets, HubSpot, Gmail, etc.
-
-I utilized this capability of NAAS to extract data from LinkedIn regarding my 50 recent followers and export it to a google sheet.
-
-I used this google sheet as a data source for a new Tableau Public workbook and created a dashboard with the below details:
-
-1) Geographical distribution of the followers (there's a map on the dashboard depicting it).
-2) Industries of these followers.
-3) Their standing in my network (first degree, second degree, third degree, or out-of-network).
-
-Rather than performing an exhaustive analysis of the data via this project, I mainly intended to show that it becomes an easy task to integrate applications with Jupyter notebooks using NAAS drivers and templates.
 
 NAAS offers low-code drivers one could easily use to connect Jupyter Notebooks to applications like LinkedIn, google sheets, HubSpot, Gmail, etc.
 
